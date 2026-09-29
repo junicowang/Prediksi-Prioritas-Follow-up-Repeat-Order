@@ -76,7 +76,7 @@ warna), lokasi (kecamatan), dan profil pembiayaan (rasio cicilan/DP, dealer).
 ### Opsi B — Lokal
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn lightgbm jupyter
-jupyter notebook TrioTunggal_Python_SPARC.ipynb
+jupyter notebook Code.ipynb
 ```
 Lalu jalankan semua sel (`Run All`). Waktu eksekusi ± beberapa menit (termasuk unduh data & tuning).
 
@@ -84,7 +84,7 @@ Lalu jalankan semua sel (`Run All`). Waktu eksekusi ± beberapa menit (termasuk 
 
 ```
 .
-├── TrioTunggal_Python_SPARC.ipynb   # Notebook utama (EDA → preprocessing → modeling → output bisnis)
+├── Code.ipynb   # Notebook utama (EDA → preprocessing → modeling → output bisnis)
 ├── README.md                        # Dokumen ini
 ├── .gitignore                       # Mengecualikan dataset & output turunan (aturan kompetisi)
 └── (SPARC_dataset.csv)              # TIDAK di-commit — diunduh saat notebook dijalankan
@@ -101,4 +101,3 @@ sehingga hasil konsisten setiap kali dijalankan. Seluruh output pada notebook di
 
 ---
 
-**Tim TrioTunggal** — SPARC 2026.
