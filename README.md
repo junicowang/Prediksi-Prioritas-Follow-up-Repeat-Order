@@ -41,7 +41,6 @@ melakukan pembelian ulang — dan pelanggan mana yang harus dihubungi lebih dulu
 
 > ⚠️ **Penting (aturan kompetisi):** dataset **dilarang didistribusikan/dipublikasikan**. File `SPARC_dataset.csv`
 > dan seluruh keluaran turunan (mis. `prioritas_followup.csv`) **sengaja tidak diikutkan** ke repositori
-> (lihat [`.gitignore`](.gitignore)). Notebook akan mengunduh data langsung dari tautan resmi saat dijalankan.
 
 ## 4. Hasil Utama
 
