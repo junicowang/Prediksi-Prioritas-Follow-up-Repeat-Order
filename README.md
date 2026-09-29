@@ -39,7 +39,7 @@ melakukan pembelian ulang — dan pelanggan mana yang harus dihubungi lebih dulu
 - **Data import di notebook hanya melalui tautan GitHub resmi kompetisi**, sesuai ketentuan lomba.
 - Kelas target **tidak seimbang**: hanya ± **13%** pelanggan yang melakukan repeat order.
 
-> ⚠️ **Penting (aturan kompetisi):** dataset **dilarang didistribusikan/dipublikasikan**. File `SPARC_dataset.csv`
+> Aaturan kompetisi:** dataset **dilarang didistribusikan/dipublikasikan**. File `SPARC_dataset.csv`
 > dan seluruh keluaran turunan (mis. `prioritas_followup.csv`) **sengaja tidak diikutkan** ke repositori
 
 ## 4. Hasil Utama
