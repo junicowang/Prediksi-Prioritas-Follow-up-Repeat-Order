@@ -4,7 +4,7 @@ Proyek *machine learning* end-to-end untuk memprediksi pelanggan mana yang berpo
 **pembelian ulang (*repeat order*)**, sehingga tim penjualan dapat **memprioritaskan aktivitas *follow-up***
 pada pelanggan dengan peluang repeat tertinggi.
 
-> **TL;DR** — Dari data transaksi penjualan kendaraan (tanpa label), dibangun target repeat di level pelanggan,
+> Dari data transaksi penjualan kendaraan (tanpa label), dibangun target repeat di level pelanggan,
 > lalu dilatih model **LightGBM** yang menghasilkan **ROC-AUC ≈ 0.75**. Model mengubah keputusan *follow-up* dari
 > acak menjadi terarah: **menghubungi 30% pelanggan teratas (skor tertinggi) sudah menjangkau ±60% dari seluruh
 > repeater**, dan desil teratas memiliki **lift ≈ 2.7×** di atas rata-rata.
