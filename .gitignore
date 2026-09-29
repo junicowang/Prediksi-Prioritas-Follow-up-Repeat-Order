@@ -1,0 +1,27 @@
+# === Aturan kompetisi SPARC 2026: dataset & turunannya DILARANG dipublikasikan ===
+SPARC_dataset.csv
+*.csv
+prioritas_followup.csv
+
+# Backup notebook asli
+_backup_original/
+
+# Guideline (dokumen internal panitia)
+Guideline SPARC 2026.pdf
+
+# === Artefak Python / Jupyter ===
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.virtual_documents/
+
+# === Lingkungan virtual ===
+.venv/
+venv/
+env/
+
+# === OS / editor ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
