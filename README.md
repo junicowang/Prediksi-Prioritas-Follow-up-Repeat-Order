@@ -18,7 +18,7 @@ repeat order**. Tantangannya: dataset bersifat **transaksional** (satu baris = s
 memiliki kolom target** yang siap pakai.
 
 **Pertanyaan bisnis:** *Berdasarkan profil transaksi pertama seorang pelanggan, seberapa besar peluang ia akan
-melakukan pembelian ulang — dan pelanggan mana yang harus dihubungi lebih dulu?*
+melakukan pembelian ulang dan pelanggan mana yang harus dihubungi lebih dulu?*
 
 ## 2. Pendekatan Solusi
 
